@@ -1,0 +1,13 @@
+*.csv
+*.png
+*.xlsm
+*data*
+*Data*
+*venv*
+*run*
+*pull*
+*.pyc*
+*.idea*
+*DS_Store*
+*backup*
+*searcher*
